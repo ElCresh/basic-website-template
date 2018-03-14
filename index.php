@@ -1,4 +1,11 @@
 <?php
+  /*
+   * Last Update: 2018
+   *
+   * Authors:
+   * Andrea Crescentini <ac@andreacrescentini.com> | https://github.com/ElCresh/
+   */
+
   session_start();
 
   require ("classes/sample.class.php");

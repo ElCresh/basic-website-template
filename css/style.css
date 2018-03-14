@@ -1,0 +1,7 @@
+/* Sample CSS file */
+
+.glyphicon {
+  width: 50%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
